@@ -1,25 +1,31 @@
-/*Navigation bar*/
+
+/*Navigation Bar*/
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #2f2f2f;
   display: flex;
   justify-content: center;
   padding: 0.25rem;
   position: fixed;
-  width: 100%;
+  width: 99%;
+  background-color: #2F4A63; font-weight:bolder;
+   font-weight:bolder;
+  color:#5B91A3;
+  border-style: solid;
 }
 a{
     padding-left: 2rem;
     padding-right: 2rem;
-    border: 2px solid black;
     border-radius: 5px;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration-line: underline;
+    color: #131B2B;
 }
 
 a:hover {
 
-  background-color: #787878;
+  background-color: #5B91A3;
 }
 
 
@@ -29,16 +35,15 @@ a:hover {
 
 /*bootstrap*/
 .Box_1 {
-  background-color: #f1f1f1;
-  border: 1px solid #f1f1f1;
+  background-color: #5B91A3;
+  border: 1px solid #5B91A3;
   padding: 10px;
 }
 
 
 /*Box two Content*/
 .Box_2 {
-  background-color: #f1f1f1;
-  border: 1px dashed black;
+  background-color: #5B91A3;
   padding: 10px;
   font-size: 30px;
   text-align: center;
@@ -49,14 +54,15 @@ a:hover {
 fishimg1
 */
 .Textbox1{
-    border: 1px solid #2f2f2f;
+    background-color: #CFEAE0;
+    border: 2px solid #131B2B;
+    border-radius: 5%;
     width: 500px;
     height: 250px;
 }
 
 .Box_3 {
-  background-color: #f1f1f1;
-  border: 1px dashed black;
+  background-color: #5B91A3;
   padding: 10px;
   font-size: 30px;
   text-align: center;
@@ -64,7 +70,9 @@ fishimg1
 }
 
 .Textbox2{
-    border: 1px solid #2f2f2f;
+    background-color: #CFEAE0;
+    border: 2px solid #131B2B;
+    border-radius: 5%;
     width: 500px;
     height: 250px;
 }
