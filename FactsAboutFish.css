@@ -1,0 +1,71 @@
+body{
+  background-color:#5B91A3
+  ;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  padding: 0.25rem;
+  position: fixed;
+  width: 99%;
+  background-color: #2F4A63; font-weight:bolder;
+   font-weight:bolder;
+  color:#5B91A3;
+  border-style: solid;
+}
+a{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 5px;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration-line: underline;
+    color: #131B2B;
+}
+
+a:hover {
+
+  background-color: #5B91A3;
+}
+
+
+
+
+
+/*Box two Content*/
+.Box_1 {
+  background-color: #5B91A3;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+  display: flex;
+}
+
+/*Box two important sections
+fishimg1
+*/
+.Textbox1{
+    background-color: #CFEAE0;
+    border: 2px solid #131B2B;
+    border-radius: 2%;
+    width: 1500px;
+    height: 250px;
+}
+
+.Box_2 {
+  background-color: #5B91A3;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+  display: flex;
+}
+
+.Textbox2{
+    background-color: #CFEAE0;
+    border: 2px solid #131B2B;
+    border-radius: 2%;
+    width: 1500px;
+    height: 150px;
+}

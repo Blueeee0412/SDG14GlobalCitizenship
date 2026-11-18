@@ -1,3 +1,7 @@
+body{
+  background-color:#5B91A3
+  ;}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -31,7 +35,7 @@ a:hover {
 
 
 /*Box two Content*/
-.Box_2 {
+.Box_1 {
   background-color: #5B91A3;
   padding: 10px;
   font-size: 30px;
@@ -45,12 +49,12 @@ fishimg1
 .Textbox1{
     background-color: #CFEAE0;
     border: 2px solid #131B2B;
-    border-radius: 5%;
-    width: 500px;
+    border-radius: 2%;
+    width: 1500px;
     height: 250px;
 }
 
-.Box_3{
+.Box_2 {
   background-color: #5B91A3;
   padding: 10px;
   font-size: 30px;
@@ -61,7 +65,7 @@ fishimg1
 .Textbox2{
     background-color: #CFEAE0;
     border: 2px solid #131B2B;
-    border-radius: 5%;
-    width: 500px;
-    height: 250px;
+    border-radius: 2%;
+    width: 1500px;
+    height: 150px;
 }
