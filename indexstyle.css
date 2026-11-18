@@ -7,8 +7,7 @@ ul {
   display: flex;
   justify-content: center;
   padding: 0.25rem;
-  position:fixed;
-  top: 0;
+  position: fixed;
   width: 100%;
 }
 a{
@@ -19,7 +18,7 @@ a{
 }
 
 a:hover {
-    
+
   background-color: #787878;
 }
 
@@ -35,12 +34,24 @@ a:hover {
   padding: 10px;
 }
 
+
+/*Box two Content*/
 .Box_2 {
   background-color: #f1f1f1;
   border: 1px dashed black;
   padding: 10px;
   font-size: 30px;
   text-align: center;
+  display: flex;
+}
+
+/*Box two important sections
+fishimg1
+*/
+.Textbox1{
+    border: 1px solid #2f2f2f;
+    width: 500px;
+    height: 250px;
 }
 
 .Box_3 {
@@ -49,4 +60,11 @@ a:hover {
   padding: 10px;
   font-size: 30px;
   text-align: center;
+  display: flex;
+}
+
+.Textbox2{
+    border: 1px solid #2f2f2f;
+    width: 500px;
+    height: 250px;
 }
